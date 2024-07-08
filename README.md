@@ -1,10 +1,6 @@
 # Università
 
-### Progetto Universitario di Reti di Calcolatori 2023/2024
-
-Studente: Francesco Maria Luisi
-
-Professore: Emanuel Di Nardo
+### Progetto Universitario di Reti di Calcolatori
 
 ## Traccia:
 
